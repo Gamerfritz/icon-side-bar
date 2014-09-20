@@ -1,7 +1,7 @@
-Simple Css icon sidebar with slide
+Simple Css icon sidebar
 =============
 
-It's a simple icon sidebar with a slide text when you hover.
+A simple icon sidebar.
 
 Watch the Demo: http://gamerfritz.de/demo/icon-side-bar/
 
